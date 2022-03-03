@@ -11,7 +11,7 @@ The main aim of this mini project is to convert any given image into a grayscale
 
 
 
-<h2><b> EXPECTED OUTCOME </b></h2>
+<h2><b> EXPECTED OUTCOMES </b></h2>
 
 The following outcomes are expected from this mini project:
 
